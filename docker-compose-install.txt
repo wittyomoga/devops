@@ -25,8 +25,3 @@ mkdir sonar
 wget https://raw.githubusercontent.com/awstechguide/devops/master/docker-compose.yml
 sudo docker–compose up
 docker ps
-
-
-
-
-
